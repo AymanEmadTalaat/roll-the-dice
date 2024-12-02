@@ -1,0 +1,23 @@
+h1 {
+  font-weight: 700;
+  font-size: 35.6px;
+  line-height: 30px;
+  color: #2b283a;
+  margin-bottom: 0;
+}
+
+p {
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 26px;
+  color: #4a4e74;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+h1,
+p {
+  font-style: normal;
+  text-align: center;
+  letter-spacing: -0.03em;
+}
